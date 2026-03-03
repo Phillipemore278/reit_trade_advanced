@@ -1,0 +1,7 @@
+DEBUG=True
+SECRET_KEY="secretkey"
+ALLOWED_HOSTS=localhost,127.0.0.1
+
+DATABASE_URL="database url"
+
+RESEND_API_KEY="resend api key here"
