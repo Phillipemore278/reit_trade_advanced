@@ -1,0 +1,856 @@
+Uri: https://cdn.jsdelivr.net/gh/shishirraven/animate-on-scroll@v1.0/oyethemes_onscroll_animation.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\gh\shishirraven\animate-on-scroll@v1.0\oyethemes_onscroll_animation.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/shishirraven/animate-on-scroll@v1.2/animation_utility.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\gh\shishirraven\animate-on-scroll@v1.2\animation_utility.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\ajax\libs\animate.css\3.7.0\animate.min.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/404.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\404.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/about.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\about.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/blog.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\blog.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/contact.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\contact.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/css/style.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\style.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/bootstrap.min.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/brands.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\brands.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Black.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Black.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Black.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-BlackItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-BlackItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Bold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Bold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Bold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-BoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-BoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraLight.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraLight.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraLight.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraLightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ExtraLightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ExtraLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Italic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Italic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Italic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Light.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Light.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Light.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-LightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-LightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Medium.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Medium.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Medium.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-MediumItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-MediumItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Regular.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Regular.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-SemiBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-SemiBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-SemiBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-SemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-SemiBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Thin.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Thin.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-Thin.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ThinItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans-ThinItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Black.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Black.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Black.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Black.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-BlackItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-BlackItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Bold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Bold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Bold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-BoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-BoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraLight.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraLight.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraLight.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraLightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ExtraLightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ExtraLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Italic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Italic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Italic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Light.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Light.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Light.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Light.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-LightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-LightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Medium.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Medium.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Medium.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-MediumItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-MediumItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Regular.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Regular.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Regular.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-SemiBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-SemiBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-SemiBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-SemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-SemiBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Thin.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Thin.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-Thin.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ThinItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans18pt-ThinItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans18pt-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Black.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Black.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Black.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Black.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-BlackItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-BlackItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Bold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Bold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Bold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-BoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-BoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ExtraBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ExtraBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ExtraBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ExtraBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ExtraLightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ExtraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ExtraLightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ExtraLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Italic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Italic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Italic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-LightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-LightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Medium.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Medium.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Medium.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-MediumItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-MediumItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Regular.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Regular.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-Regular.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-SemiBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-SemiBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-SemiBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-SemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-SemiBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ThinItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans24pt-ThinItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans24pt-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Black.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Black.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Black.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Black.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-BlackItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-BlackItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-BlackItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-BlackItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Bold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Bold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Bold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-BoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-BoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraLight.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraLight.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraLight.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraLight.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraLightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraLightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ExtraLightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ExtraLightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Italic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Italic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Italic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Light.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Light.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Light.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Light.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-LightItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-LightItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Medium.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Medium.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Medium.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-MediumItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-MediumItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Regular.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Regular.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Regular.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-SemiBold.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-SemiBold.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-SemiBoldItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-SemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-SemiBoldItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Thin.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Thin.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-Thin.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ThinItalic.woff
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ThinItalic.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/DMSans36pt-ThinItalic.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\DMSans36pt-ThinItalic.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/css/vendor/DM-sans/stylesheet.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\DM-sans\stylesheet.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/fontawesome.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\fontawesome.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/regular.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\regular.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/rtmicons.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\rtmicons.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/solid.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\solid.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/css/vendor/swiper-bundle.min.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\css\vendor\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://html.rometheme.net/planvest/faq.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\faq.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/font/fa-brands-400.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.rometheme.net/planvest/font/fa-brands-400.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/font/fa-regular-400.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://html.rometheme.net/planvest/font/fa-regular-400.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/font/fa-solid-900.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://html.rometheme.net/planvest/font/fa-solid-900.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.rometheme.net/planvest/font/rtmicon/rtmicon.eot?spwgs3
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\rtmicon\rtmicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.rometheme.net/planvest/font/rtmicon/rtmicon.svg?spwgs3
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\rtmicon\rtmicon.svg
+Content Type: image/svg+xml
+
+Uri: https://html.rometheme.net/planvest/font/rtmicon/rtmicon.ttf?spwgs3
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\rtmicon\rtmicon.ttf
+Content Type: font/ttf
+
+Uri: https://html.rometheme.net/planvest/font/rtmicon/rtmicon.woff?spwgs3
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\font\rtmicon\rtmicon.woff
+Content Type: font/woff
+
+Uri: https://html.rometheme.net/planvest/image/img1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img1.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img10.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img10.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img11.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img11.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img12.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img12.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img13.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img13.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img14.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img14.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img16.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img16.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img17.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img17.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img2.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img20.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img20.jpg
+Content Type: image/jpeg
+
+Uri: https://html.rometheme.net/planvest/image/img21.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img21.jpg
+Content Type: image/jpeg
+
+Uri: https://html.rometheme.net/planvest/image/img22.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img22.jpg
+Content Type: image/jpeg
+
+Uri: https://html.rometheme.net/planvest/image/img23.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img23.jpg
+Content Type: image/jpeg
+
+Uri: https://html.rometheme.net/planvest/image/img25.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img25.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img26.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img26.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img29.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img29.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img3.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img30.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img30.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img31.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img31.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img34.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img34.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img35.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img35.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img36.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img36.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img37.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img37.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img38.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img38.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img39.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img39.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img4.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img40.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img40.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img5.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img6.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img7.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img7.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img8.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img8.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/img9.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\img9.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/image/logo.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\image\logo.png
+Content Type: image/png
+
+Uri: https://html.rometheme.net/planvest/index.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\index.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/js/script.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\script.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/share.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\share.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/submit-form.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\submit-form.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/swiper-script.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\swiper-script.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/vendor/bootstrap.bundle.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\vendor\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/vendor/fslightbox.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\vendor\fslightbox.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/vendor/isotope.pkgd.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\vendor\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/vendor/jquery.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/vendor/swiper-bundle.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\vendor\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/js/video_embedded.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\js\video_embedded.js
+Content Type: application/javascript
+
+Uri: https://html.rometheme.net/planvest/price_plan.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\price_plan.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/services.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\services.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/service_detail.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\service_detail.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/single_blog.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\single_blog.html
+Content Type: text/html
+
+Uri: https://html.rometheme.net/planvest/team.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\html.rometheme.net\planvest\team.html
+Content Type: text/html
+

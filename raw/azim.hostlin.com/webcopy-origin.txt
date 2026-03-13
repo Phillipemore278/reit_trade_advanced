@@ -1,0 +1,1688 @@
+Uri: https://azim.hostlin.com/Fxvibe/
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\index-1.htm
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/about.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\about.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/account-1.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\account-1.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/account-2.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\account-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/account-3.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\account-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/account-4.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\account-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/account-5.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\account-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/account-6.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\account-6.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/animate.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/bootstrap.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/color.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\color.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/color2.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\color2.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/color3.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\color3.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/color4.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\color4.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/color5.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\color5.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/flaticon.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/font-awesome-all.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\font-awesome-all.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/jquery.fancybox.min.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/nice-select.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/owl.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\owl.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/responsive.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/css/style.css
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\css\style.css
+Content Type: text/css
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/fa-brands-400.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/fa-regular-400.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/fa-solid-900.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/fa-v4compatibility.woff2
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/flaticon_mycollection.eot?b62dc249e1a880cc2acabc98b67a2102
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\flaticon_mycollection.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/flaticon_mycollection.svg?b62dc249e1a880cc2acabc98b67a2102
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\flaticon_mycollection.svg
+Content Type: image/svg+xml
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/flaticon_mycollection.ttf?b62dc249e1a880cc2acabc98b67a2102
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\flaticon_mycollection.ttf
+Content Type: font/ttf
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/flaticon_mycollection.woff2?b62dc249e1a880cc2acabc98b67a2102
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\flaticon_mycollection.woff2
+Content Type: font/woff2
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/fonts/flaticon_mycollection.woff?b62dc249e1a880cc2acabc98b67a2102
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\fonts\flaticon_mycollection.woff
+Content Type: font/woff
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/about-bg.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/error-bg.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\error-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/feature-bg.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\feature-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/funding-bg.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\funding-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/page-title-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\page-title-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/page-title.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\page-title.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/subscribe-bg.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\subscribe-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/video-bg-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\video-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/video-bg-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\video-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/background/video-bg.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\background\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-5.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-6.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-img-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-img-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-img-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/banner/banner-img-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\banner\banner-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-10.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-11.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-12.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-13.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-14.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-15.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-16.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-17.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-17.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-18.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-18.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-19.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-19.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-7.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-8.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/clients/clients-9.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\clients\clients-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/favicon-2.ico
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\favicon-2.ico
+Content Type: image/x-icon
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/favicon-3.ico
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\favicon-3.ico
+Content Type: image/x-icon
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/favicon-4.ico
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\favicon-4.ico
+Content Type: image/x-icon
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/favicon-5.ico
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\favicon-5.ico
+Content Type: image/x-icon
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/favicon.ico
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/badge-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\badge-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/badge-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\badge-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/bar-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\bar-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/bar-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\bar-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/bar-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\bar-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/bar-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\bar-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/card-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\card-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/card-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\card-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/card-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\card-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/card-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\card-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/chart-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\chart-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-7.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/flag-8.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\flag-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/graph-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\graph-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/graph-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\graph-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/graph-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\graph-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-10.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-11.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-12.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-13.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-14.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-15.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-16.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-18.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-18.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-19.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-19.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-20.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-20.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-21.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-21.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-22.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-22.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-23.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-23.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-24.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-24.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-25.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-25.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-26.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-26.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-27.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-27.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-28.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-28.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-29.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-29.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-30.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-30.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-31.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-31.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-32.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-32.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-33.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-33.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-34.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-34.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-35.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-35.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-36.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-36.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-37.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-37.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-38.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-38.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-39.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-39.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-40.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-40.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-41.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-41.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-42.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-42.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-43.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-43.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-44.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-44.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-45.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-45.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-46.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-46.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-47.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-47.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-48.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-48.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-49.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-49.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-50.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-50.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-51.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-51.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-52.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-52.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-53.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-53.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-54.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-54.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-55.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-55.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-56.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-56.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-57.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-57.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-58.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-58.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-59.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-59.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-60.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-60.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-61.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-61.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-62.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-62.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-63.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-63.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-65.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-65.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-66.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-66.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-67.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-67.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-68.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-68.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-69.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-69.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-7.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-70.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-70.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-71.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-71.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-72.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-72.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-73.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-73.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-74.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-74.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-75.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-75.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-76.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-76.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-77.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-77.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-78.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-78.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-79.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-79.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-8.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-80.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-80.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-81.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-81.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-82.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-82.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-83.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-83.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-84.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-84.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-85.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-85.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-86.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-86.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-87.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-87.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-88.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-88.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-89.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-89.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-9.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-90.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-90.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-91.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-91.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-92.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-92.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-93.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-93.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-94.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-94.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-95.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-95.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-96.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-96.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/icon-97.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\icon-97.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/line-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\line-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/line-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\line-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/logo-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\logo-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/logo-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\logo-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/icons/signature-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\icons\signature-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-7.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-8.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo-9.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/logo.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/author-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/comment-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\comment-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/comment-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\comment-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-10.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-11.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-11.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-12.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-12.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-13.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-13.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-18.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-18.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-19.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-19.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-20.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-20.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-21.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-21.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-22.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-22.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-23.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-23.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-5.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-6.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-7.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-8.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/news/news-9.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\news\news-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/about-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/about-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/about-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-10.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-10.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-5.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-6.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-7.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-8.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/account-9.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\account-9.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/card-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\card-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/card-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\card-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/card-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\card-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/card-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\card-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/card-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\card-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/chat-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\chat-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/chat-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\chat-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/chooseus-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\chooseus-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/clients-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\clients-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/clients-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\clients-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/clients-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\clients-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/comment-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\comment-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/comment-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\comment-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/contact-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\contact-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/course-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\course-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/dashboard-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\dashboard-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/dashboard-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\dashboard-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/faq-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\faq-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/faq-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\faq-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/history-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\history-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/history-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\history-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/history-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\history-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/history-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\history-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/history-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\history-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/history-6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\history-6.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/lesson-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\lesson-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/lesson-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\lesson-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/lesson-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\lesson-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/lesson-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\lesson-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/men-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\men-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/mockup-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\mockup-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/mockup-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\mockup-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/offer-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\offer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/offers-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\offers-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/sidebar-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\sidebar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/statement-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\statement-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/statement-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\statement-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/support-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\support-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/testimonial-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\testimonial-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/testimonial-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\testimonial-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/testimonial-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\testimonial-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/testimonial-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\testimonial-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/testimonial-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\testimonial-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/thumb-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\thumb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/thumb-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\thumb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/vector-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\vector-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/vector-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\vector-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/vector-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\vector-3.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/vector-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\vector-4.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/resource/vector-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\resource\vector-5.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-5.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-6.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/service/service-7.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\service\service-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-1.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-1-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-10.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-10.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-11.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-11.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-12.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-12.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-13.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-13.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-14.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-14.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-15.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-15.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-16.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-16.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-17.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-17.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-18.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-18.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-19.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-19.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-2.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-2.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-20.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-20.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-21.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-21.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-22.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-22.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-23.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-23.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-24.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-24.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-25.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-25.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-26.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-26.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-27.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-27.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-28.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-28.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-29.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-29.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-3.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-3-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-30.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-30.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-31.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-31.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-32.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-32.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-33.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-33.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-34.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-34.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-35.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-35.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-36.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-36.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-37.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-37.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-39.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-39.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-4.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-4-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-40.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-40.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-41.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-41.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-42.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-42.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-43.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-43.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-44.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-44.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-45.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-45.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-46.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-46.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-47.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-47.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-48.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-48.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-5.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-5-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-6.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-6-1.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-7.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-7.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-8.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-8.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/shape/shape-9.png
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\shape\shape-9.png
+Content Type: image/png
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-1.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-2.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-3.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-4.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-5.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-6.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-7.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-7.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/images/team/team-8.jpg
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\images\team\team-8.jpg
+Content Type: image/jpeg
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/appear.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\appear.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/bootstrap.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/bxslider.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\bxslider.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/isotope.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\isotope.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/jquery.circleType.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\jquery.circleType.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/jquery.fancybox.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\jquery.fancybox.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/jquery.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\jquery.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/jquery.lettering.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\jquery.lettering.min.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/jquery.nice-select.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\jquery.nice-select.min.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/owl.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\owl.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/popper.min.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/profit-calculator.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\profit-calculator.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/script.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\script.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/scrollbar.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\scrollbar.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/validation.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\validation.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/assets/js/wow.js
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\assets\js\wow.js
+Content Type: text/javascript
+
+Uri: https://azim.hostlin.com/Fxvibe/blog-2.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\blog-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/blog-3.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\blog-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/blog-4.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\blog-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/blog-details.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\blog-details.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/blog.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\blog.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/contact.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\contact.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/education-details.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\education-details.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/education.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\education.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/error.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\error.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/faq.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\faq.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/history.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\history.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/index-2.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\index-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/index-3.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\index-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/index-4.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\index-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/index-5.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\index-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/index.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\index.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/service-details-2.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\service-details-2.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/service-details-3.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\service-details-3.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/service-details-4.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\service-details-4.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/service-details-5.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\service-details-5.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/service-details.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\service-details.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/service.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\service.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/team.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\team.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/trader-1.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\trader-1.html
+Content Type: text/html
+
+Uri: https://azim.hostlin.com/Fxvibe/trader-2.html
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\Fxvibe\trader-2.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2Rbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3Rbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80Rbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1Rbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRbg.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSZQ.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSZQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Il8y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HS0Il8y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ18y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HScJ18y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIF8y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HSMIF8y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI18y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HSQI18y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JF8y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HT4JF8y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJl8y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HTEJl8y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIV8y.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVMSTAyLFyeg_IDWvOJmVES_HToIV8y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUBX8.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVNSTAyLFyeg_IDWvOJmVES_HRUBX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HwyBX8.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVNSTAyLFyeg_IDWvOJmVES_HwyBX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Eww.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\bevietnampro\v12\QdVPSTAyLFyeg_IDWvOJmVES_Eww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+File Name: E:\Nephygcodes\Downloaded templates\invetment\azim.hostlin.com\s\instrumentsans\v4\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+Content Type: font/ttf
+
